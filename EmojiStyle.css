@@ -1,0 +1,19 @@
+body{
+    background-color: plum;
+    margin:auto;
+}
+.App{
+    height: 350px;
+    width: 500px;
+    margin: auto;
+    margin-top: 500px;
+    border: 10px solid grey;
+}
+input{
+    height: 50px;
+    width: 300px; ;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+    
+}
